@@ -3,7 +3,7 @@
 <?php
 
 
-$muestra= "Pagina nueva regalo para mi gemela";
+$muestra= "Prueba de funcionamiento de php";
 
 echo($muestra);
 
